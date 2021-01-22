@@ -1,0 +1,6 @@
+model_checkpoint_path: "D:\\tmp\\train_inception_v1_malwares_FineTune_logs\\all\\model.ckpt-20000"
+all_model_checkpoint_paths: "D:\\tmp\\train_inception_v1_malwares_FineTune_logs\\all\\model.ckpt-19879"
+all_model_checkpoint_paths: "D:\\tmp\\train_inception_v1_malwares_FineTune_logs\\all\\model.ckpt-19910"
+all_model_checkpoint_paths: "D:\\tmp\\train_inception_v1_malwares_FineTune_logs\\all\\model.ckpt-19942"
+all_model_checkpoint_paths: "D:\\tmp\\train_inception_v1_malwares_FineTune_logs\\all\\model.ckpt-19973"
+all_model_checkpoint_paths: "D:\\tmp\\train_inception_v1_malwares_FineTune_logs\\all\\model.ckpt-20000"
